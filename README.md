@@ -1,4 +1,5 @@
 # mantine/hooks useIntersection
+  Vous pouvez souhaiter démarrer une animation uniquement lorsqu'un utilisateur voit un élément spécifique. Ou, vous voudrez peut-être afficher ou masquer un élément       après qu'il ait fait défiler une certaine quantité vers le bas de la page.
 
 ## Installation 
   1. npx create-react-app nom-de-l-application
