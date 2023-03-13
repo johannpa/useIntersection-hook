@@ -3,8 +3,9 @@
 
 ## Installation 
   1. npx create-react-app nom-de-l-application
-  2. npm i react-intersection-observer
-  3. npm i @mantine/core
+  2. npm i @mantine/hooks
+  3. npm i react-intersection-observer
+  4. npm i @mantine/core
   
 ## Sources
   1. [npm i react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer)
