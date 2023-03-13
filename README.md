@@ -9,5 +9,5 @@
   1. [npm i react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer)
   2. [npm i @mantine/core](https://www.npmjs.com/package/@mantine/core)
   3. [Documentation mantine](https://mantine.dev/)
-  4.[hooks et style mantine](https://mantine.dev/hooks/use-intersection/)
+  4. [hooks et style mantine](https://mantine.dev/hooks/use-intersection/)
   
