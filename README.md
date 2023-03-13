@@ -8,8 +8,9 @@
   4. npm i @mantine/core
   
 ## Sources
-  1. [npm i react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer)
-  2. [npm i @mantine/core](https://www.npmjs.com/package/@mantine/core)
-  3. [Documentation mantine](https://mantine.dev/)
-  4. [hooks et style mantine](https://mantine.dev/hooks/use-intersection/)
+  1. [npm i @mantine/hooks](https://www.npmjs.com/package/@mantine/hooks)
+  2. [npm i react-intersection-observer](https://www.npmjs.com/package/react-intersection-observer)
+  3. [npm i @mantine/core](https://www.npmjs.com/package/@mantine/core)
+  4. [Documentation mantine](https://mantine.dev/)
+  5. [hooks et style mantine](https://mantine.dev/hooks/use-intersection/)
   
